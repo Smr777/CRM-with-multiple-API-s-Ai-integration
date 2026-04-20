@@ -1,4 +1,5 @@
-# ART CRM Local Setup
+# AI CRM Local Setup V1
+I built frontend for this app using typescript + google AI Studio for rapid prototyping while i used highly sclable backend which is SupaBase For scalable Database and high bandwith client usage and load which is routing through api channels connecting the backend and frontend as one complete future proof business solution.
 
 This repo runs the frontend and backend together through a single Express + Vite development server.
 
