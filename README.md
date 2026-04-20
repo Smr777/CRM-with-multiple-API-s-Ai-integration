@@ -28,6 +28,7 @@ This repo runs the frontend and backend together through a single Express + Vite
    `http://localhost:3000`
 
 ## Database Setup
+Used SupaBase For scalable Database and high bandwith client usage and load which is routing through api channels connecting the backend and frontend as one complete future proof business solution.
 
 If your Supabase project is empty, run [`supabase_schema.sql`](./supabase_schema.sql) in the Supabase SQL editor before signing in.
 
